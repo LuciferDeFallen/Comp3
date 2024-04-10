@@ -1,0 +1,3 @@
+C:\programming1\OpenGLTest\x64\Debug\OpenGLTest.exe
+C:\programming1\OpenGLComp3\x64\Debug\OpenGLTest.exe
+C:\programming1\OpenGLComp3Act\x64\Debug\OpenGLTest.exe
